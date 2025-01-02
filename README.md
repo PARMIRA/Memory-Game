@@ -11,7 +11,7 @@ The Memory Game is an interactive game where players match pairs of images. With
 
 ## Technologies Used
 - **Frontend**: React, Axios
-- **Backend**: (Specify backend technology if applicable)
+- **Backend**: Python Flask, Rest APIs
 - **Styling**: CSS
 
 ## Installation
